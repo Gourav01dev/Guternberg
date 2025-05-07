@@ -23,3 +23,5 @@ bash
 Copy
 Edit
 npm install dotenv pg
+
+3. run project with node server.js
